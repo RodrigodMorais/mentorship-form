@@ -36,6 +36,7 @@ body::before {
 
 header h1 {
   font-family: 'Staatliches', sans-serif;
+  font-weight: normal;
   font-size: 4.8rem;
   line-height: 6rem;
 
